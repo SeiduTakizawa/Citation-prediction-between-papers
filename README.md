@@ -1,6 +1,6 @@
 # Citation Prediction Between Papers
 
-🏆 **2nd Place Winner** in the 2025 NLP Kaggle Competition at the University of Ioannina, out of 100+ competing teams!
+🏆 **2nd Place Winner** in the 2025 NLP Kaggle Competition at the University of Ioannina, out of 70+ competing teams!
 
 ---
 
